@@ -61,7 +61,8 @@ int main()
 }
 ```
 # OUTPUT
-<img width="922" height="362" alt="image" src="https://github.com/user-attachments/assets/bc370d14-3235-4978-b7c5-8a9479170513" />
+<img width="1916" height="921" alt="Screenshot 2026-09-02 104222" src="https://github.com/user-attachments/assets/08454b38-f507-4cab-8dc0-c148fecb78e7" />
+
 
 # RESULT
 Thus, the Rail Fence Transposition technique was successfully implemented
